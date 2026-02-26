@@ -14,7 +14,7 @@ int main() // main NOT Main or MAIN
     cout << high << "\n";
     cout << low << "\n";
 
-    cout << 10 / 0 << "\n"; // warning division by zero
-
+    // cout << 10 / 0 << "\n"; // warning division by zero
+    cout << 'hello';
     return 0; // don't forget return
 }
