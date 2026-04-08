@@ -23,3 +23,9 @@ int main() {
 	return 0;
 }
 
+// The output is:
+// 0
+// 2
+// 6 12
+// 9
+// 2
